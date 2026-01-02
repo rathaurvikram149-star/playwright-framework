@@ -1,0 +1,22 @@
+{
+  "name": "playwright-framework",
+  "version": "1.0.0",
+  "description": "Advanced Playwright framework using JavaScript, POM, and CI/CD",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rathaurvikram149-star/playwright-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rathaurvikram149-star/playwright-framework/issues"
+  },
+  "homepage": "https://github.com/rathaurvikram149-star/playwright-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
